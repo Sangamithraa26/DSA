@@ -17,7 +17,7 @@ class Solution:
             k -= 1
 
         #Copy remaining elements from nums2 if any
-        while j >- 0:
+        while j >= 0:
             nums1[k] = nums2[j]
             j -= 1
             k -= 1
